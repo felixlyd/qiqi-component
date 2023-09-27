@@ -15,6 +15,7 @@
 
     <modules>
         <module>qiqi-logback</module>
+        <module>qiqi-undertow</module>
     </modules>
 
     <properties>
